@@ -19,4 +19,6 @@ link: https://devstars-kohl.vercel.app/
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](https://github.com/Marcelitos77/devstars/blob/main/Screenshot%202023-11-28%2008.50.28.png)
+
+![App Screenshot](https://github.com/Marcelitos77/devstars/blob/main/devs.png)

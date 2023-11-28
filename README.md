@@ -1,6 +1,6 @@
 # Página Devstars
 
-Este é uma landpage de estudo foi desenvolvido em html e css.
+Este é uma landing page de estudo foi desenvolvido em html e css.
 
 link: https://devstars-kohl.vercel.app/
 
